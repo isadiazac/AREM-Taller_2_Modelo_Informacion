@@ -90,9 +90,13 @@ Además, se modelan:
 
 ## 📈 Diagrama final entregado
 
+### 🏥 Modelo ER - Caso Base (Hospital)
 
+![Modelo ER Hospital](entrega/modelo-final-er-hospital.png)
 
+### 🏢 Modelo ER - Cliente (Empresa)
 
+![Modelo ER Empresa](entrega/modelo-final-er-empresa.png)
 
 
 ---
