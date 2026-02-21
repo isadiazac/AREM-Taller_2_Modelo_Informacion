@@ -1,36 +1,48 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 2
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+20/02/2026
 
 ## 👥 Integrantes presentes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Isabela Díaz
+- Sebastián Sánchez
+- Samuel López
 
 ## 🧠 Actividades realizadas en clase
 
-Describa brevemente qué se hizo durante la sesión:
+Durante la sesión se trabajó inicialmente en el caso base de la Clínica Salud Viva.
 
-- ¿Qué se discutió con el equipo?
-- ¿Qué decisiones de modelado se tomaron?
-- ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?
-- ¿Qué parte del trabajo se alcanzó a desarrollar?
+Se discutió:
+- Qué es una entidad.
+- Cómo identificar relaciones 1:N.
+- Qué atributos deben ser claves primarias o foráneas.
+- Cómo modelar correctamente asociaciones entre entidades.
 
-## 🧩 Boceto inicial del modelo
+Decisiones tomadas:
+- Separar claramente entidades transaccionales (COTIZACION, ORDEN_VENTA, FACTURA).
+- Incluir estados como atributos tipo enumerado.
+- Representar la decisión del cliente como entidad independiente.
+- Modelar el inventario como entidad separada de producto.
 
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
+Herramientas utilizadas:
+- ....... para el modelado digital.
+- Discusión en equipo y ajustes iterativos.
 
-## 🔁 Tareas definidas para complementar el taller
-
-Anote las responsabilidades acordadas entre los miembros del equipo para completar la entrega final:
-
-| Tarea asignada | Responsable | Fecha estimada |
-|----------------|-------------|----------------|
-| Modelado final en draw.io | Nombre 1 | 10/08 |
-| Redacción del informe     | Nombre 2 | 11/08 |
-| Investigación y referencias | Nombre 3 | 12/08 |
+En clase se alcanzó a desarrollar:
+- Boceto del modelo del caso base.
+- Discusión para aclarar dudas sobre algunas relaciones de entidades.
+- Identificación preliminar de entidades del cliente real.
 
 ---
 
-_Este documento resume el trabajo colaborativo realizado durante la sesión del taller X en el curso AREM - Universidad de La Sabana._
+## 🔁 Tareas definidas para complementar el taller
+
+| Tarea asignada | Responsable | Fecha estimada |
+|----------------|-------------|----------------|
+| Boceto inicial del cliente y redacción de informe | Isabela | 20/02 |
+| Corrección del diagrama del cliente y redacción del informe | Sebastián | 20/02 |
+| Investigación y redacción de informe | Samuel | 20/02 |
+
+---
+
+_Este documento resume el trabajo colaborativo realizado durante la sesión del taller 2 en el curso AREM - Universidad de La Sabana._
