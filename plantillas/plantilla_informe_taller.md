@@ -87,17 +87,17 @@ Además, se modelan:
 - El registro de rechazo se almacena estructuradamente aunque operativamente pueda exportarse a Excel.
 
 ---
+# 📊 Diagrama final entregado
 
-## 📈 Diagrama final entregado
+## 🏥 Modelo ER - Caso Base (Hospital)
 
-### 🏥 Modelo ER - Caso Base (Hospital)
+![Modelo ER Hospital](../entrega/modelo-final-er-hospital.png)
 
-![Modelo ER Hospital](entrega/modelo-final-er-hospital.png)
+---
 
-### 🏢 Modelo ER - Cliente (Empresa)
+## 🏢 Modelo ER - Cliente (Empresa)
 
-![Modelo ER Empresa](entrega/modelo-final-er-empresa.png)
-
+![Modelo ER Empresa](../entrega/modelo-final-er-empresa.png)
 
 ---
 
