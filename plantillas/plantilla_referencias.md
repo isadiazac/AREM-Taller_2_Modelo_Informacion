@@ -3,24 +3,24 @@
 Este archivo contiene las fuentes consultadas para el desarrollo del taller, tanto para el componente técnico como para la investigación complementaria.
 
 ## 🔖 Taller
-_Taller X - [Nombre del Taller]_
+Taller 2 - Modelo de Información y Diagrama de Contexto
 
 ---
 
 ## 📚 Referencias utilizadas
 
-1. Apellido, Nombre. *Título del libro o artículo*. Editorial, Año. URL o DOI.  
-2. Organización. *Especificación técnica o estándar consultado*. URL.  
-3. Sitio web institucional. "Título del artículo o página". [Enlace](https://ejemplo.com). Fecha de consulta: DD/MM/AAAA.  
-4. Otro recurso académico o técnico citado.
+1. Chen, P. P. (1976). *The Entity-Relationship Model—Toward a Unified View of Data*. ACM Transactions on Database Systems.
+2. OMG. *Unified Modeling Language (UML) Specification*. https://www.omg.org/spec/UML/
+3. IBM. "What is an Entity Relationship Diagram (ERD)?". https://www.ibm.com/topics/entity-relationship-diagram
+4. Fuente asistida por IA: ChatGPT, febrero 2026.
 
 ---
 
 ## 📌 Recomendaciones
 
-- Usa formato APA o IEEE para citar.
-- No incluyas fuentes como Wikipedia si hay mejores alternativas.
-- Si usas inteligencia artificial para redactar o investigar, cítalo como "Fuente asistida por IA: ChatGPT, julio 2025".
+- Se utilizó formato académico tipo APA simplificado.
+- Se priorizaron fuentes técnicas formales.
+- Se declaró el uso de IA como apoyo de redacción.
 
 ---
 
