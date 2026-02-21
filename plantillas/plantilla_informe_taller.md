@@ -16,7 +16,7 @@ Durante la clase se trabajó con el caso base “Clínica Salud Viva” para com
 ---
 
 ## 🔧 Proceso de desarrollo
-Inicialmente se modeló el caso base en clase utilizando ....., identificando las entidades principales (Paciente, Cita, Médico, Especialidad, Factura) y sus relaciones.
+Inicialmente se modeló el caso base en clase utilizando Lucidchart identificando las entidades principales (Paciente, Cita, Médico, Especialidad, Factura) y sus relaciones.
 
 Posteriormente, para el cliente real:
 
@@ -32,7 +32,7 @@ Posteriormente, para el cliente real:
 3. Se incluyó la gestión de productos, inventario y ajustes de precio según la información que proporcionó cliente.
 4. Se incluyó añadir la razón o feedback del rechazo de una cotización, pues el cliente informó que le gusta añadir esto para entender la opinión de los clientes e intentar acomodarse más a sus necesidades.
 
-Se utilizó ..... para el modelado final y GitHub para el control de versiones del repositorio.
+Se utilizó Lucidchart para el modelado final y GitHub para el control de versiones del repositorio.
 
 ---
 
