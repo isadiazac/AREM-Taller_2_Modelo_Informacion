@@ -25,7 +25,7 @@ Decisiones tomadas:
 - Modelar el inventario como entidad separada de producto.
 
 Herramientas utilizadas:
-- ....... para el modelado digital.
+- Lucidchart para el modelado digital.
 - Discusión en equipo y ajustes iterativos.
 
 En clase se alcanzó a desarrollar:
